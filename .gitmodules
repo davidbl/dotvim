@@ -40,3 +40,6 @@
 [submodule "bundle/vim-rails"]
 	path = bundle/vim-rails
 	url = git@github.com:tpope/vim-rails.git
+[submodule "bundle/language-haskell"]
+	path = bundle/language-haskell
+	url = https://github.com/atom-haskell/language-haskell
