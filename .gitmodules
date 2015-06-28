@@ -43,3 +43,6 @@
 [submodule "bundle/haskell-vim"]
 	path = bundle/haskell-vim
 	url = https://github.com/raichoo/haskell-vim
+[submodule "bundle/bundle/vim-elixir"]
+	path = bundle/bundle/vim-elixir
+	url = http://github.com/elixir-lang/vim-elixir.git
