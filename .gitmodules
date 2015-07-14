@@ -49,3 +49,6 @@
 [submodule "bundle/purescript-vim"]
 	path = bundle/purescript-vim
 	url = http://github.com/raichoo/purescript-vim.git
+[submodule "bundle/vim-mustached-handlebars"]
+	path = bundle/vim-mustached-handlebars
+	url = http://github.com/mustache/vim-mustache-handlebars
