@@ -37,6 +37,9 @@ vmap <C-x> :!pbcopy<CR>
 vmap <C-c> :w !pbcopy<CR><CR>
 let g:ackprg = 'ag --nogroup --nocolor --column'
 
+let g:ctrlp_user_command='ag %s -l --nocolor -g ""'
+let g:ctrlp_use_caching=0
+
 set statusline=%F%m%r%h%w\ 
 set statusline+=\ [line\ %l\/%L]
 set statusline+=\ col:\ %c
