@@ -35,6 +35,8 @@ inoremap jk <Esc>
 inoremap kk <Esc>$a
 vmap <C-x> :!pbcopy<CR>
 vmap <C-c> :w !pbcopy<CR><CR>
+
+nmap =j :%!python -m json.tool<CR>
 let g:ackprg = 'ag --nogroup --nocolor --column'
 
 let g:ctrlp_user_command='ag %s -l --nocolor -g ""'
@@ -108,4 +110,3 @@ set wildignore+=*.gem
 set wildignore+=log/**
 set wildignore+=tmp/**
 set wildignore+=*.png,*.jpg,*.gif
-
