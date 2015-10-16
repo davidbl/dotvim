@@ -52,3 +52,6 @@
 [submodule "bundle/vim-mustached-handlebars"]
 	path = bundle/vim-mustached-handlebars
 	url = http://github.com/mustache/vim-mustache-handlebars
+[submodule "bundle/csv"]
+	path = bundle/csv
+	url = https://github.com/chrisbra/csv.vim
