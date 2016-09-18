@@ -79,6 +79,8 @@ let g:AutoCloseProtectedRegions = ["Character"]
 set autoindent
 set smartindent
 set smarttab
+set ignorecase
+set smartcase
 set shiftwidth=2
 set softtabstop=2
 set tabstop=2
