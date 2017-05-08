@@ -67,3 +67,6 @@
 [submodule "bundle/vim-terraform"]
 	path = bundle/vim-terraform
 	url = https://github.com/hashivim/vim-terraform.git
+[submodule "bundle/bundle/vim-slim"]
+	path = bundle/bundle/vim-slim
+	url = https://github.com/slim-template/vim-slim
