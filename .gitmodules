@@ -70,3 +70,6 @@
 [submodule "bundle/bundle/vim-slim"]
 	path = bundle/bundle/vim-slim
 	url = https://github.com/slim-template/vim-slim
+[submodule "bundle/vim-slim"]
+	path = bundle/vim-slim
+	url = http://github.com/slim-template/vim-slim.git
