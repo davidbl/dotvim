@@ -131,6 +131,9 @@ Plug 'tpope/vim-fugitive'
 Plug 'tpope/vim-surround'
 Plug 'tpope/vim-rails'
 Plug 'Townk/vim-autoclose'
+Plug 'vim-scripts/matchit.zip'
+Plug 'ervandew/supertab'
+Plug 'tpope/vim-endwise'
 
 " Initialize plugin system
 " - Automatically executes `filetype plugin indent on` and `syntax enable`.
